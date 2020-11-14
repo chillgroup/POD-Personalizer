@@ -13,6 +13,12 @@
 - ✅ Super lightweight
 - ✅ Active and dedicated support will assist you via 2 channels: Support via mail & Facebook page
 
+<img src="https://raw.githubusercontent.com/chillgroup/POD-Personalizer/master/screenshots/podpersonalizer-demo.jpg" alt="Demo POD products" width="100%" height="auto"/>
+
+<img src="https://raw.githubusercontent.com/chillgroup/POD-Personalizer/master/screenshots/podpersonalizer-demo2.jpg" alt="Demo POD products" width="100%" height="auto"/>
+
+<img src="https://raw.githubusercontent.com/chillgroup/POD-Personalizer/master/screenshots/podpersonalizer-settings.png" alt="Setting templates" width="100%" height="auto"/>
+
 ## Have a problem?
 
 - Open Github ticket
